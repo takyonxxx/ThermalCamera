@@ -121,4 +121,22 @@ DISTFILES += \
     android/res/drawable-xxhdpi/icon.png \
     android/res/drawable-xxxhdpi/icon.png \
     android/res/values/libs.xml \
-    android/src/org/tbiliyor/thermal/camera/MainActivity.java
+    android/src/org/tbiliyor/thermal/camera/MainActivity.java \
+    ios/Assets.xcassets/AppIcon.appiconset/Contents.json \
+    ios/Assets.xcassets/AppIcon.appiconset/_/1024.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/114.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/120.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/128.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/16.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/180.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/256.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/29.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/32.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/40.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/512.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/57.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/58.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/60.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/64.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/80.png \
+    ios/Assets.xcassets/AppIcon.appiconset/_/87.png
