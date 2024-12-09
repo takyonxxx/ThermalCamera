@@ -121,44 +121,4 @@ DISTFILES += \
     android/res/drawable-xxhdpi/icon.png \
     android/res/drawable-xxxhdpi/icon.png \
     android/res/values/libs.xml \
-    android/src/org/tbiliyor/thermal/camera/MainActivity.java \
-    ios/Assets.xcassets/AppIcon.appiconset/1024.png \
-    ios/Assets.xcassets/AppIcon.appiconset/114.png \
-    ios/Assets.xcassets/AppIcon.appiconset/120.png \
-    ios/Assets.xcassets/AppIcon.appiconset/128.png \
-    ios/Assets.xcassets/AppIcon.appiconset/16.png \
-    ios/Assets.xcassets/AppIcon.appiconset/180.png \
-    ios/Assets.xcassets/AppIcon.appiconset/256.png \
-    ios/Assets.xcassets/AppIcon.appiconset/29.png \
-    ios/Assets.xcassets/AppIcon.appiconset/32.png \
-    ios/Assets.xcassets/AppIcon.appiconset/40.png \
-    ios/Assets.xcassets/AppIcon.appiconset/512.png \
-    ios/Assets.xcassets/AppIcon.appiconset/57.png \
-    ios/Assets.xcassets/AppIcon.appiconset/58.png \
-    ios/Assets.xcassets/AppIcon.appiconset/60.png \
-    ios/Assets.xcassets/AppIcon.appiconset/64.png \
-    ios/Assets.xcassets/AppIcon.appiconset/80.png \
-    ios/Assets.xcassets/AppIcon.appiconset/87.png \
-    ios/Assets.xcassets/AppIcon.appiconset/Contents.json \
-    ios/Info.plist \
-    macos/Assets.xcassets/AppIcon.appiconset/1024.png \
-    macos/Assets.xcassets/AppIcon.appiconset/114.png \
-    macos/Assets.xcassets/AppIcon.appiconset/120.png \
-    macos/Assets.xcassets/AppIcon.appiconset/128.png \
-    macos/Assets.xcassets/AppIcon.appiconset/16.png \
-    macos/Assets.xcassets/AppIcon.appiconset/180.png \
-    macos/Assets.xcassets/AppIcon.appiconset/256.png \
-    macos/Assets.xcassets/AppIcon.appiconset/29.png \
-    macos/Assets.xcassets/AppIcon.appiconset/32.png \
-    macos/Assets.xcassets/AppIcon.appiconset/40.png \
-    macos/Assets.xcassets/AppIcon.appiconset/512.png \
-    macos/Assets.xcassets/AppIcon.appiconset/57.png \
-    macos/Assets.xcassets/AppIcon.appiconset/58.png \
-    macos/Assets.xcassets/AppIcon.appiconset/60.png \
-    macos/Assets.xcassets/AppIcon.appiconset/64.png \
-    macos/Assets.xcassets/AppIcon.appiconset/80.png \
-    macos/Assets.xcassets/AppIcon.appiconset/87.png \
-    macos/Assets.xcassets/AppIcon.appiconset/Contents.json \
-    macos/Info.plist
-
-
+    android/src/org/tbiliyor/thermal/camera/MainActivity.java
